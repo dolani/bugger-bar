@@ -1,6 +1,6 @@
 import React from 'react'
 import './Burger.css';
-import BurgerRecipe from '../BurgerRecipe/BurgerRecipe';
+import BurgerRecipe from './BurgerRecipe/BurgerRecipe';
 import Type from '../../types';
 
 const Burger = () => {
