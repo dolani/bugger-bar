@@ -6,7 +6,7 @@ import Type from '../../types';
 const Burger = () => {
 
   return (
-    <div className="Burger">
+    <div className="burger">
       <BurgerRecipe type={Type.Recipe.TopBread} />
       {/* <BurgerRecipe type={Type.Recipe.Meat} />
       <BurgerRecipe type={Type.Recipe.Cheese} />
