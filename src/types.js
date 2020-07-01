@@ -1,10 +1,10 @@
 const Recipe = {
-  TopBread: "top-bread",
-  BottomBread: "bottom-bread",
-  Meat: "meat",
-  Cheese: "cheese",
-  Bacon: "bacon",
-  Salad: "salad"
+  topBread: "top-bread",
+  bottomBread: "bottom-bread",
+  meat: "meat",
+  cheese: "cheese",
+  bacon: "bacon",
+  salad: "salad"
 }
 
 export default { Recipe }
