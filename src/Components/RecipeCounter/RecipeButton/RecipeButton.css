@@ -1,0 +1,11 @@
+.button-container {
+  padding: 1em 0;
+}
+
+.add-button {
+  margin: 0 1em 0 2em;
+}
+
+.remove-button {
+  margin: 0 1em;
+}
