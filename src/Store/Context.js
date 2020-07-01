@@ -10,7 +10,6 @@ const StateContext = React.createContext();
 const DispatchContext = React.createContext();
 
 const recipeReducer = (state, action) => {
-  // console.log(state, 'action.type', action);
   const recipe = action.recipe;
   switch (action.type) {
     case 'increment':
